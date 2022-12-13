@@ -1,6 +1,6 @@
 
 # Veronika Pakeleva 
-`![myimage](
+`![myimage](https://github.com/Nika0711/rsschool-cv/blob/gh-pages/photo.jpg)
 ## Contact information:
 * Address: Saint-Petersburg, Russia/ Belarus, Minsk
 * Phone number: +7(921)88-60-557
