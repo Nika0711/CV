@@ -31,10 +31,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
 
-    background-image: url(./assets/images/background.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-size: contain;
+
 }
 *{
     margin: 0;
@@ -59,12 +56,22 @@ body{
   height: 240px;
   border-radius:50%;
 }
+main {
+    background-image: url(./assets/images/background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 main.main.container{
 padding-left: 50px;  
+
 }
 .container {
     max-width: 1440px;
     margin: 0 auto;
+
+
+    
   }
   .link {
     text-decoration: none;
