@@ -199,6 +199,8 @@ padding-left: 50px;
 }
 .footer-logo:hover{
     background-color:#1c8b2d;
+    color: #1c8b2d;
+  
 }
 .footer-github{
     list-style: none;
@@ -209,6 +211,7 @@ padding-left: 50px;
 .github-link:hover{
     color: #1c8b2d;
     cursor: pointer;
+    transition: 1s;
 }
 
 .wrap{
@@ -222,5 +225,5 @@ padding-left: 50px;
   background-color:#c8a0c8;
 }
 i{
-  color:#cfafcf;
+  color:#d774d7;
 }
