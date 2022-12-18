@@ -191,7 +191,7 @@ padding-left: 50px;
 .footer-logo{
   width:100px; 
 }
-.footer-logo:hover{
+.footer-logo, .footer-github:hover{
   cursor:pointer;
 }
 .wrap{
