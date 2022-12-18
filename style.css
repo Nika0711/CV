@@ -68,10 +68,7 @@ padding-left: 50px;
 }
 .container {
     max-width: 1440px;
-    margin: 0 auto;
-
-
-    
+    margin: 0 auto; 
   }
   .link {
     text-decoration: none;
@@ -177,7 +174,8 @@ padding-left: 50px;
   list-style-type: none;
 }
 
-.footer-info {
+
+.footer-info, .footer-github{
   font-size: 18px;
   padding: 0 30px 0px 30px ;
   line-height: 50px;
@@ -187,6 +185,7 @@ padding-left: 50px;
 .footer-container{
   display:flex;
   justify-content: space-between;
+ 
 }
 .footer-logo{
   width:100px; 
@@ -198,6 +197,20 @@ padding-left: 50px;
 .footer-logo, .footer-github:hover{
   cursor:pointer;
 }
+.footer-logo:hover{
+    background-color:#1c8b2d;
+}
+.footer-github{
+    list-style: none;
+}  
+.footer-github li a{
+    color: white;
+}
+.github-link:hover{
+    color: #1c8b2d;
+    cursor: pointer;
+}
+
 .wrap{
   display:flex;
   flex-wrap: wrap;
