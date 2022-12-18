@@ -190,7 +190,11 @@ padding-left: 50px;
 }
 .footer-logo{
   width:100px; 
+  background-color: rgba(255, 255, 255, 0.763);
+  margin-top: 5px;
+
 }
+
 .footer-logo, .footer-github:hover{
   cursor:pointer;
 }
