@@ -34,7 +34,7 @@ body{
 *{
     margin: 0;
     padding: 0;
-    box-sizing:border-box;
+    box-sizing: border-box;
     outline:none;
 }
 .header, .footer{
@@ -89,6 +89,7 @@ background-size: contain;
     line-height: 50px;
     text-decoration: none;
     color:white;
+    transition: .3s;
   }
   /* main */
  
