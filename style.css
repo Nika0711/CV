@@ -30,6 +30,11 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
+    background-image: url(./assets/images/background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 *{
     margin: 0;
@@ -56,10 +61,6 @@ body{
 }
 main.main.container{
 padding-left: 50px;  
-background-image: url(./assets/img/background.jpg);
-background-size: contain;
-background-repeat: no-repeat;
-background-size: contain;
 }
 .container {
     max-width: 1440px;
