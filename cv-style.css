@@ -1,4 +1,5 @@
 
+
 @font-face {
     font-family: Noto serif;
     src: url("assets/fonts/NotoSerif-Regular.ttf");
@@ -332,6 +333,6 @@ body{
   padding:0;
 }
 .section-title{
-  text-align:center;git 
+  text-align:center;
 }
 }
