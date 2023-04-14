@@ -287,7 +287,7 @@ body{
     outline:none;
 }
 
-@media (max-width:400px){
+@media (max-width: 400px){
   .container{
     width:300px;
     padding-inline:0;
