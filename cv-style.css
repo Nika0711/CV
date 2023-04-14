@@ -134,6 +134,8 @@ body{
   #goals{
     width: 100%;
     border-bottom: 5px solid rgb(207, 175, 207);
+    padding-inline: 20px;
+    padding-top: 20px;
   }
   #experience{
     width:100%;
