@@ -286,3 +286,52 @@ body{
     outline:none;
 }
 
+@media (max-width:320px){
+  .container{
+    width:300px;
+    padding-inline:0;
+  }
+  .nav-list{
+    display:block;
+    order:2;
+  }
+  .nav-link{
+    padding: 0;
+  }
+  #profile{
+    display: block;
+    align-items:center;
+    order: 1;
+  }
+  .photo{
+    width: 100%;
+    padding-inline: 20px;
+  }
+  .img-container{
+   width: 100%;
+   margin-left: 0;
+   
+  }
+  h1.section-title{
+    line-height:24px;
+  }
+  .sub-title{
+    margin-bottom: 0;
+  }
+  .info{
+    margin-left:0;
+
+  }
+  #education, .section{
+    width:100%;   
+  }
+.section-item{
+  padding-left:35px;
+}
+.footer-info{
+  padding:0;
+}
+.section-title{
+  text-align:center;git 
+}
+}
